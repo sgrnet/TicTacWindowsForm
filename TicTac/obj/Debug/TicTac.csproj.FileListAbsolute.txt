@@ -1,0 +1,10 @@
+D:\EPAM\tic_tac\TicTac\TicTac\obj\Debug\TicTac.csprojAssemblyReference.cache
+D:\EPAM\tic_tac\TicTac\TicTac\obj\Debug\TicTac.FormMain.resources
+D:\EPAM\tic_tac\TicTac\TicTac\obj\Debug\TicTac.Properties.Resources.resources
+D:\EPAM\tic_tac\TicTac\TicTac\obj\Debug\TicTac.csproj.GenerateResource.cache
+D:\EPAM\tic_tac\TicTac\TicTac\obj\Debug\TicTac.csproj.CoreCompileInputs.cache
+D:\EPAM\tic_tac\TicTac\TicTac\bin\Debug\TicTac.exe.config
+D:\EPAM\tic_tac\TicTac\TicTac\bin\Debug\TicTac.exe
+D:\EPAM\tic_tac\TicTac\TicTac\bin\Debug\TicTac.pdb
+D:\EPAM\tic_tac\TicTac\TicTac\obj\Debug\TicTac.exe
+D:\EPAM\tic_tac\TicTac\TicTac\obj\Debug\TicTac.pdb
